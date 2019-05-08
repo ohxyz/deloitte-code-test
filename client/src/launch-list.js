@@ -30,7 +30,7 @@ class LaunchList extends Component {
     render() {
 
         return (
-            <div role="missions" aria-live="true" className="launch__list">
+            <div aria-live="polite" className="launch__list">
                 <div className="launch__summary">
                 {   this.props.launches.length > 0
                     ? <span>Showing { this.props.launches.length } Missions</span>

@@ -5,7 +5,7 @@
 
 # Still to do
 
-1. Properly format date and time of launch. I would use a 3rd party libraray, eg. moment, date-fns
+1. Properly format date and time of launch. I would use a 3rd party library, eg. moment, date-fns
 2. Style `-` character before `Failed Mission` in black. As it requires additional markups and styles.
 3. Format code to be less than e.g 100 characters a line.
 4. Smooth animation of scrolling to top by CSS or easing function.
